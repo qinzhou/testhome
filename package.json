@@ -1,0 +1,14 @@
+{
+  "name": "wangqz-npm-test",
+  "version": "1.0.1",
+  "description": "test\u001b[D\u001b[D\u001b[D\u001b[Djust a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wangqz"
+  ],
+  "author": "wangqz",
+  "license": "ISC"
+}
